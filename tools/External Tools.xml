@@ -1,0 +1,30 @@
+<toolSet name="External Tools">
+  <tool name="javah" description="javah 一键生成h文件" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$JDKPath$\bin\javah.exe" />
+      <option name="PARAMETERS" value="-classpath . -jni -d $ModuleFileDir$/src/main/jni  $FileClass$" />
+      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$/src/main/java" />
+    </exec>
+  </tool>
+  <tool name="ndk_build" description="ndk_build" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="G:\ndk\ndk-build" />
+      <option name="PARAMETERS" value="$ProjectFileDir$/app/src/main" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="ndk_build_clean" description="ndk_build_clean" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="G:\ndk\ndk-build" />
+      <option name="PARAMETERS" value="clean" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/app/src/main" />
+    </exec>
+  </tool>
+  <tool name="javap -s" description="javap -s" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$JDKPath$\bin\javap.exe" />
+      <option name="PARAMETERS" value="-classpath $ModuleFileDir$/build/intermediates/classes/debug -s $FileClass$" />
+      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
