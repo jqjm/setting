@@ -8,14 +8,14 @@
   </tool>
   <tool name="ndk_build" description="ndk_build" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="G:\ndk\ndk-build" />
+      <option name="COMMAND" value="G:\sdk\sdk\ndk-bundle" />
       <option name="PARAMETERS" value="$ProjectFileDir$/app/src/main" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="ndk_build_clean" description="ndk_build_clean" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="G:\ndk\ndk-build" />
+      <option name="COMMAND" value="G:\sdk\sdk\ndk-bundle" />
       <option name="PARAMETERS" value="clean" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/app/src/main" />
     </exec>
