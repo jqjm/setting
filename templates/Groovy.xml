@@ -1,0 +1,7 @@
+<templateSet group="Groovy">
+  <template name="zhujie" value="compile 'com.jakewharton:butterknife:8.5.1'&#10;annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'" shortcut="ENTER" description="butterknife" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="true" />
+    </context>
+  </template>
+</templateSet>
