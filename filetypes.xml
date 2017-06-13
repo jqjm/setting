@@ -9,6 +9,7 @@
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="lsc" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
       <mapping pattern="show_bg_tab" type="XML" />
     </extensionMap>
