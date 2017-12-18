@@ -42,9 +42,13 @@
           <option name="url" value="https://github.com/CymChad/BaseRecyclerViewAdapterHelper.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/Terry_/SimilarGalleryContrast.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="G:\androidWork\demo" />
+    <option name="cloneParentDir" value="G:\Android\AndroidProject\text" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="E:\workspace_app\SVNTEST" />
