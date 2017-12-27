@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="berth_fault_feedback_white_bg.xml" type="PLAIN_TEXT" />
+      <removed_mapping ext="ttf" approved="true" type="Font" />
       <mapping pattern="show_bg_table.xml" type="PLAIN_TEXT" />
+      <mapping pattern="berth_fault_feedback_white_bg.xml" type="PLAIN_TEXT" />
       <mapping pattern="dadadas" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
