@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="ttf" approved="true" type="Font" />
       <mapping pattern="show_bg_table.xml" type="PLAIN_TEXT" />
       <mapping pattern="berth_fault_feedback_white_bg.xml" type="PLAIN_TEXT" />
       <mapping pattern="dadadas" type="PLAIN_TEXT" />
@@ -11,7 +10,6 @@
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="lsc" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
       <mapping pattern="show_bg_tab" type="XML" />
     </extensionMap>
