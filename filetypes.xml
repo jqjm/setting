@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="show_bg_table.xml" type="PLAIN_TEXT" />
       <mapping pattern="berth_fault_feedback_white_bg.xml" type="PLAIN_TEXT" />
+      <mapping pattern="hh.html" type="PLAIN_TEXT" />
       <mapping pattern="dadadas" type="PLAIN_TEXT" />
       <mapping pattern="签名密码" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
