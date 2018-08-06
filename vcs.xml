@@ -90,6 +90,10 @@
           <option name="url" value="https://github.com/H07000223/FlycoTabLayout.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DukerSunny/TV-TabIndicatorViewPager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android\AndroidProject\test\" />
