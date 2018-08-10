@@ -98,6 +98,10 @@
           <option name="url" value="https://github.com/Danieladu/TabLayout-ViewPager-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/roughike/BottomBar.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android\AndroidProject\test\" />
