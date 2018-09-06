@@ -3,9 +3,9 @@
     <extensionMap>
       <mapping pattern="1534315519719" type="Native" />
       <mapping pattern="show_bg_table.xml" type="PLAIN_TEXT" />
+      <mapping pattern="dadadas" type="PLAIN_TEXT" />
       <mapping pattern="berth_fault_feedback_white_bg.xml" type="PLAIN_TEXT" />
       <mapping pattern="hh.html" type="PLAIN_TEXT" />
-      <mapping pattern="dadadas" type="PLAIN_TEXT" />
       <mapping pattern="签名密码" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
@@ -14,6 +14,7 @@
       <mapping ext="lsc" type="PLAIN_TEXT" />
       <mapping ext="bf2" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
       <mapping pattern="show_bg_tab" type="XML" />
     </extensionMap>
