@@ -9,4 +9,14 @@
       <option name="GROOVY" value="true" />
     </context>
   </template>
+  <template name="gson" value="implementation 'com.google.code.gson:gson:2.8.5'" shortcut="ENTER" description="gson" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="true" />
+    </context>
+  </template>
+  <template name="bus" value="implementation 'org.greenrobot:eventbus:3.1.1'" shortcut="ENTER" description="bus" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="true" />
+    </context>
+  </template>
 </templateSet>
