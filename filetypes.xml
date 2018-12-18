@@ -10,12 +10,10 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="lsc" type="PLAIN_TEXT" />
       <mapping ext="bf2" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
-      <removed_mapping ext="so" type="UNKNOWN" />
       <mapping pattern="show_bg_tab" type="XML" />
     </extensionMap>
   </component>
