@@ -15,7 +15,7 @@
       <mapping ext="bf2" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
-      <removed_mapping ext="so" type="UNKNOWN" />
+      <removed_mapping ext="so" approved="true" type="UNKNOWN" />
       <mapping pattern="show_bg_tab" type="XML" />
     </extensionMap>
   </component>
