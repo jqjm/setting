@@ -5,5 +5,4 @@
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
   </action>
-  <action id="SaveAll" />
 </keymap>
