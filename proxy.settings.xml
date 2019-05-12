@@ -5,6 +5,6 @@
     <option name="PROXY_PORT" value="1080" />
     <option name="KEEP_PROXY_PASSWORD" value="true" />
     <option name="USE_PAC_URL" value="true" />
-    <option name="PAC_URL" value="http://127.0.0.1:1082/pac/?t=20190326145948487" />
+    <option name="PAC_URL" value="http://127.0.0.1:1080/pac?auth=GgQKR2Ws4RohubTQBG3k&amp;t=201905061059451940" />
   </component>
 </application>
