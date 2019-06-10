@@ -3,12 +3,13 @@
     <extensionMap>
       <mapping pattern="191441bffab7582c61ad81e4a89e0ba4" type="Image" />
       <mapping pattern="1534315519719" type="Native" />
+      <mapping ext="mp4" type="Native" />
       <mapping pattern="show_bg_table.xml" type="PLAIN_TEXT" />
+      <mapping pattern="hh.html" type="PLAIN_TEXT" />
+      <mapping pattern="berth_fault_feedback_white_bg.xml" type="PLAIN_TEXT" />
+      <mapping pattern="签名密码" type="PLAIN_TEXT" />
       <mapping pattern="1341c0e9611c00870ee39c90d6d11f92" type="PLAIN_TEXT" />
       <mapping pattern="dadadas" type="PLAIN_TEXT" />
-      <mapping pattern="berth_fault_feedback_white_bg.xml" type="PLAIN_TEXT" />
-      <mapping pattern="hh.html" type="PLAIN_TEXT" />
-      <mapping pattern="签名密码" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
@@ -21,6 +22,7 @@
       <mapping ext="0" type="PLAIN_TEXT" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
       <mapping pattern="show_bg_tab" type="XML" />
+      <removed_mapping ext="so" approved="true" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
