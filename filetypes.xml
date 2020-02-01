@@ -6,6 +6,7 @@
       <mapping ext="mp4" type="Native" />
       <mapping pattern="show_bg_table.xml" type="PLAIN_TEXT" />
       <mapping pattern="hh.html" type="PLAIN_TEXT" />
+      <mapping pattern="logFile" type="PLAIN_TEXT" />
       <mapping pattern="berth_fault_feedback_white_bg.xml" type="PLAIN_TEXT" />
       <mapping pattern="签名密码" type="PLAIN_TEXT" />
       <mapping pattern="c" type="PLAIN_TEXT" />
