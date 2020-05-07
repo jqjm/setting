@@ -5,6 +5,6 @@
     <option name="PROXY_PORT" value="7890" />
     <option name="KEEP_PROXY_PASSWORD" value="true" />
     <option name="USE_PAC_URL" value="true" />
-    <option name="PAC_URL" value="http://127.0.0.1:10810/pac/?t=0924095749516" />
+    <option name="PAC_URL" value="https://www.baidu.com" />
   </component>
 </application>
