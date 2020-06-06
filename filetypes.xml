@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="191441bffab7582c61ad81e4a89e0ba4" type="Image" />
       <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="1534315519719" type="Native" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern="dadadas" type="PLAIN_TEXT" />
@@ -10,6 +11,7 @@
       <mapping pattern="签名密码" type="PLAIN_TEXT" />
       <mapping pattern="berth_fault_feedback_white_bg.xml" type="PLAIN_TEXT" />
       <mapping pattern="logFile" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="c" type="PLAIN_TEXT" />
       <mapping pattern="1341c0e9611c00870ee39c90d6d11f92" type="PLAIN_TEXT" />
       <mapping pattern="show_bg_table.xml" type="PLAIN_TEXT" />
