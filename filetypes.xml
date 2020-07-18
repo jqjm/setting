@@ -24,6 +24,7 @@
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="shaders_cache" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
       <mapping pattern="show_bg_tab" type="XML" />
