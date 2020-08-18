@@ -46,9 +46,13 @@
           <option name="url" value="https://github.com/googlecodelabs/android-paging" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gpfduoduo/NetWorkTools.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\AndroidProject" />
+    <option name="cloneParentDir" value="F:\AndroidProject\github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
