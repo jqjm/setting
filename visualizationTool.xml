@@ -2,7 +2,6 @@
   <component name="VisualizationTool">
     <option name="state">
       <GlobalState>
-        <option name="configurationSetName" value="CUSTOM" />
         <option name="customConfigurationAttributes">
           <list>
             <CustomConfigurationAttribute>
@@ -25,7 +24,7 @@
             </CustomConfigurationAttribute>
           </list>
         </option>
-        <option name="scale" value="0.3640625" />
+        <option name="scale" value="0.5" />
       </GlobalState>
     </option>
   </component>
