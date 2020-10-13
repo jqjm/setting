@@ -15,13 +15,13 @@
       <mapping pattern="c" type="PLAIN_TEXT" />
       <mapping pattern="1341c0e9611c00870ee39c90d6d11f92" type="PLAIN_TEXT" />
       <mapping pattern="show_bg_table.xml" type="PLAIN_TEXT" />
-      <mapping ext="temp" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="lsc" type="PLAIN_TEXT" />
       <mapping ext="bf2" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="rsp" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
