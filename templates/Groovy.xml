@@ -24,4 +24,9 @@
       <option name="GROOVY" value="true" />
     </context>
   </template>
+  <template name="buildFeatures" value="buildFeatures {&#10;        dataBinding true&#10;    }" shortcut="ENTER" description="新版databinding 开启" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="true" />
+    </context>
+  </template>
 </templateSet>
